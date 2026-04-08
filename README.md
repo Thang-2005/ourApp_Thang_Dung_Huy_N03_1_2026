@@ -1,5 +1,4 @@
-# my_project
-
+Ứng Dụng Hỗ Trợ Đặt Lịch Khám
 A new Flutter project.
 
 ## Getting Started
