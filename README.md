@@ -17,10 +17,20 @@ Thành viên nhóm:
 
 Tính năng chính
 📅 Đặt lịch khám bệnh trực tuyến
+
+
 👨‍⚕️ Xem danh sách bác sĩ và chuyên khoa
+
+
 ⏰ Quản lý lịch hẹn (xem / sửa / hủy)
+
+
 🔔 Nhắc lịch khám
+
+
 🔐 Đăng ký / đăng nhập người dùng
+
+
 🗂️ Quản lý thông tin bệnh nhân
 
 
